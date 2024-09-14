@@ -5,16 +5,8 @@
         "url": "https://www.clipchamp.com/"
       },
       {
-        "name": "Stabledoodle",
-        "url": "https://www.stabledoodle.com/"
-      },
-      {
         "name": "chat.notdiamond.io",
         "url": "https://chat.notdiamond.io/"
-      },
-      {
-        "name": "BeforeSunset",
-        "url": "https://www.beforesunset.com/"
       },
       {
         "name": "SciSummary.com",
@@ -23,10 +15,6 @@
       {
         "name": "Framer AI",
         "url": "https://www.framer.com/ai/"
-      },
-      {
-        "name": "Speechki",
-        "url": "https://www.speechki.com/"
       },
       {
         "name": "Autonomous AI",
@@ -54,7 +42,7 @@
       },
       {
         "name": "CrewAI",
-        "url": "https://www.crewai.io/"
+        "url": "https://www.crewai.com/"
       },
       {
         "name": "ChatGPT",
@@ -77,16 +65,8 @@
         "url": "https://beta.character.ai/"
       },
       {
-        "name": "Perplexity AI Companion",
-        "url": "https://chromewebstore.google.com/detail/perplexity-ai-companion"
-      },
-      {
         "name": "TextFX",
         "url": "https://textfx.withgoogle.com/"
-      },
-      {
-        "name": "AI For Marketers",
-        "url": "https://clickhubspot.com/i9q"
       },
       {
         "name": "Leonardo.Ai",
@@ -111,10 +91,6 @@
       {
         "name": "AI Image Upscaler",
         "url": "https://www.upscale.media/"
-      },
-      {
-        "name": "LeiaPix",
-        "url": "https://convert.leiapix.com/animation"
       },
       {
         "name": "AutoDraw",
@@ -173,10 +149,6 @@
         "url": "https://pinokio.computer/"
       },
       {
-        "name": "OpenDevin",
-        "url": "https://opendevin.io/"
-      },
-      {
         "name": "Huggingface",
         "url": "https://huggingface.co/"
       },
@@ -186,7 +158,7 @@
       },
       {
         "name": "OpenHands",
-        "url": "https://openhands.ai/"
+        "url": "https://docs.all-hands.dev/"
       },
       {
         "name": "gpt4all",
@@ -226,7 +198,7 @@
       },
       {
         "name": "Kotaemon",
-        "url": "https://kotaemon.ai/"
+        "url": "https://github.com/Cinnamon/kotaemon"
       },
       {
         "name": "DupDub AI Voice Generator",
@@ -254,27 +226,27 @@
       },
       {
         "name": "Fabric: Opensource AI",
-        "url": "https://fabric.ai/"
+        "url": "https://www.fabrichq.ai/"
       },
       {
         "name": "Cursor",
-        "url": "https://www.cursor.ai/"
+        "url": "https://www.cursor.com/"
       },
       {
         "name": "Agent Zero",
-        "url": "https://agentzero.io/"
+        "url": "https://github.com/frdel/agent-zero"
       },
       {
         "name": "Taipy",
         "url": "https://www.taipy.io/"
       },
       {
-        "name": "Devon",
-        "url": "https://www.devon.ai/"
+        "name": "Devin",
+        "url": "https://www.cognition.ai/blog/introducing-devin"
       },
       {
         "name": "AnythingLLM",
-        "url": "https://anythingllm.ai/"
+        "url": "https://anythingllm.com/"
       },
       {
         "name": "CoPilot and CoAgents",
