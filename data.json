@@ -1,0 +1,289 @@
+{
+    "links": [
+      {
+        "name": "Clipchamp",
+        "url": "https://www.clipchamp.com/"
+      },
+      {
+        "name": "Stabledoodle",
+        "url": "https://www.stabledoodle.com/"
+      },
+      {
+        "name": "chat.notdiamond.io",
+        "url": "https://chat.notdiamond.io/"
+      },
+      {
+        "name": "BeforeSunset",
+        "url": "https://www.beforesunset.com/"
+      },
+      {
+        "name": "SciSummary.com",
+        "url": "https://www.scisummary.com/"
+      },
+      {
+        "name": "Framer AI",
+        "url": "https://www.framer.com/ai/"
+      },
+      {
+        "name": "Speechki",
+        "url": "https://www.speechki.com/"
+      },
+      {
+        "name": "Autonomous AI",
+        "url": "https://www.autonomous.ai/"
+      },
+      {
+        "name": "AgentGPT",
+        "url": "https://agentgpt.reworkd.ai/"
+      },
+      {
+        "name": "Ora.sh",
+        "url": "https://www.ora.sh/"
+      },
+      {
+        "name": "Meetcody.ai",
+        "url": "https://meetcody.ai/"
+      },
+      {
+        "name": "Jasper",
+        "url": "https://www.jasper.ai/"
+      },
+      {
+        "name": "Literallyanything.io",
+        "url": "https://literallyanything.io/"
+      },
+      {
+        "name": "CrewAI",
+        "url": "https://www.crewai.io/"
+      },
+      {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "name": "Claude 3.5 sonnet",
+        "url": "https://claude.ai/chats"
+      },
+      {
+        "name": "AI Tool Finder",
+        "url": "https://www.futuretools.io"
+      },
+      {
+        "name": "Bard AI Chat",
+        "url": "https://bard.google.com/chat"
+      },
+      {
+        "name": "Character AI",
+        "url": "https://beta.character.ai/"
+      },
+      {
+        "name": "Perplexity AI Companion",
+        "url": "https://chromewebstore.google.com/detail/perplexity-ai-companion"
+      },
+      {
+        "name": "TextFX",
+        "url": "https://textfx.withgoogle.com/"
+      },
+      {
+        "name": "AI For Marketers",
+        "url": "https://clickhubspot.com/i9q"
+      },
+      {
+        "name": "Leonardo.Ai",
+        "url": "https://app.leonardo.ai/"
+      },
+      {
+        "name": "Microsoft Image Creator",
+        "url": "https://www.bing.com/images/create"
+      },
+      {
+        "name": "Ideogram",
+        "url": "https://ideogram.ai/t/trending"
+      },
+      {
+        "name": "AI Playground",
+        "url": "https://playgroundai.com/"
+      },
+      {
+        "name": "Magic Eraser",
+        "url": "https://magicstudio.com/magiceraser/"
+      },
+      {
+        "name": "AI Image Upscaler",
+        "url": "https://www.upscale.media/"
+      },
+      {
+        "name": "LeiaPix",
+        "url": "https://convert.leiapix.com/animation"
+      },
+      {
+        "name": "AutoDraw",
+        "url": "https://autodraw.com/"
+      },
+      {
+        "name": "Blockade Labs",
+        "url": "https://skybox.blockadelabs.com/"
+      },
+      {
+        "name": "Luma AI",
+        "url": "https://lumalabs.ai/"
+      },
+      {
+        "name": "Luma Genie",
+        "url": "https://lumalabs.ai/genie"
+      },
+      {
+        "name": "Pika",
+        "url": "https://pika.art/"
+      },
+      {
+        "name": "Plazmapunk",
+        "url": "https://www.plazmapunk.com/"
+      },
+      {
+        "name": "PlayPhrase.me",
+        "url": "https://playphrase.me/"
+      },
+      {
+        "name": "Adobe Speech Enhancer",
+        "url": "https://podcast.adobe.com/enhance"
+      },
+      {
+        "name": "Mubert",
+        "url": "https://mubert.com/"
+      },
+      {
+        "name": "Text to Song",
+        "url": "https://www.voicemod.net/text-to-song/"
+      },
+      {
+        "name": "Suno AI",
+        "url": "https://www.suno.ai/"
+      },
+      {
+        "name": "Vocal Remover",
+        "url": "https://vocalremover.org/"
+      },
+      {
+        "name": "Audiobox",
+        "url": "https://audiobox.metademolab.com/"
+      },
+      {
+        "name": "Pinokio",
+        "url": "https://pinokio.computer/"
+      },
+      {
+        "name": "OpenDevin",
+        "url": "https://opendevin.io/"
+      },
+      {
+        "name": "Huggingface",
+        "url": "https://huggingface.co/"
+      },
+      {
+        "name": "Ollama",
+        "url": "https://ollama.com/"
+      },
+      {
+        "name": "OpenHands",
+        "url": "https://openhands.ai/"
+      },
+      {
+        "name": "gpt4all",
+        "url": "https://gpt4all.io/"
+      },
+      {
+        "name": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "name": "Google Gemini",
+        "url": "https://gemini.google.com/chat"
+      },
+      {
+        "name": "OpenAI ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "name": "Meta AI",
+        "url": "https://www.meta.ai/"
+      },
+      {
+        "name": "Mistral",
+        "url": "https://chat.mistral.ai/"
+      },
+      {
+        "name": "Suno AI Music Generator",
+        "url": "https://suno.com/"
+      },
+      {
+        "name": "LM Studio",
+        "url": "https://lmstudio.ai/"
+      },
+      {
+        "name": "aider",
+        "url": "https://aider.ai/"
+      },
+      {
+        "name": "Kotaemon",
+        "url": "https://kotaemon.ai/"
+      },
+      {
+        "name": "DupDub AI Voice Generator",
+        "url": "https://cutt.ly/QesMXZAk"
+      },
+      {
+        "name": "Lovo AI Text to Voice Generator",
+        "url": "https://cutt.ly/xwtR9SiC"
+      },
+      {
+        "name": "TTS OpenAI voice generator",
+        "url": "https://cutt.ly/LegAfI5f"
+      },
+      {
+        "name": "Crikk AI Voice Generator",
+        "url": "https://cutt.ly/WeWw1twD"
+      },
+      {
+        "name": "123Apps Text to Speech",
+        "url": "https://cutt.ly/YeWw1RkC"
+      },
+      {
+        "name": "Genie",
+        "url": "https://genie.ai/"
+      },
+      {
+        "name": "Fabric: Opensource AI",
+        "url": "https://fabric.ai/"
+      },
+      {
+        "name": "Cursor",
+        "url": "https://www.cursor.ai/"
+      },
+      {
+        "name": "Agent Zero",
+        "url": "https://agentzero.io/"
+      },
+      {
+        "name": "Taipy",
+        "url": "https://www.taipy.io/"
+      },
+      {
+        "name": "Devon",
+        "url": "https://www.devon.ai/"
+      },
+      {
+        "name": "AnythingLLM",
+        "url": "https://anythingllm.ai/"
+      },
+      {
+        "name": "CoPilot and CoAgents",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "name": "Replit",
+        "url": "https://replit.com/"
+      }
+    ]
+  }
+  
