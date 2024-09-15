@@ -1,75 +1,77 @@
 body {
-  background-color: #F3F4F6;
-  color: #111827;
-  font-family: 'Inter', sans-serif;
-  margin: 0;
-  padding: 0;
-}
-
-header {
-  background-color: #1F2937;
-  padding: 1rem;
-  color: white;
-  text-align: center;
-}
-
-a {
-  color: #3B82F6;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #F97316;
-}
-
-.card {
-  background-color: white;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  margin: 1rem;
-  padding: 1.5rem;
-  transition: transform 0.3s;
-  max-width: 300px;
-  display: inline-block;
-}
-
-.card:hover {
-  transform: scale(1.05);
-}
-
-.card img {
-  width: 100%;
-  border-radius: 4px;
-}
-
-.card h2 {
-  color: #111827;
-  font-size: 1.25rem;
-  margin-bottom: 0.5rem;
-}
-
-.card p {
-  color: #6B7280;
-  margin-bottom: 1rem;
-}
-
-button {
-  background-color: #3B82F6;
-  border: none;
-  color: white;
-  padding: 0.5rem 1rem;
-  border-radius: 4px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-
-button:hover {
-  background-color: #F97316;
-}
-
-footer {
-  background-color: #1F2937;
-  padding: 1rem;
-  color: white;
-  text-align: center;
-}
+    background-color: #f0f0f0;
+    color: #20232a;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #282c34;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+  }
+  
+  a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ff7f50;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    padding: 1.5rem;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    max-width: 300px;
+    display: inline-block;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .card h2 {
+    color: #20232a;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card p {
+    color: #606060;
+    margin-bottom: 1rem;
+  }
+  
+  button {
+    background-color: #61dafb;
+    border: none;
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #ff7f50;
+  }
+  
+  footer {
+    background-color: #282c34;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+  }
+  
