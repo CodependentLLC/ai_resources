@@ -1,126 +1,76 @@
-/* Reset some default styles */
-* {
+body {
+    background-color: #F3F4F6;
+    color: #111827;
+    font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
   }
   
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f9;
-    color: #333;
-    line-height: 1.6;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-  }
-  
-  /* Header styling */
   header {
-    background-color: #4a90e2;
-    color: #fff;
-    padding: 20px;
+    background-color: #1F2937;
+    padding: 1rem;
+    color: white;
     text-align: center;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
   }
   
-  header h1 {
-    margin-bottom: 10px;
+  a {
+    color: #3B82F6;
+    text-decoration: none;
   }
   
-  header input {
-    padding: 10px;
-    width: 80%;
-    max-width: 400px;
-    border: none;
-    border-radius: 5px;
+  a:hover {
+    color: #F97316;
   }
   
-  /* Main content styling */
-  main {
-    flex: 1;
-    padding: 20px;
-  }
-  
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 20px;
-  }
-
-  /* Add thumbnail image styling */
-.thumbnail {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
+  .card {
+    background-color: white;
     border-radius: 8px;
-    margin-bottom: 15px;
-  }
-  
-  /* Card styling */
-.card {
-    background-color: #ffffff;
-    border-radius: 12px;
-    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    padding: 20px;
-    color: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    padding: 1.5rem;
+    transition: transform 0.3s;
+    max-width: 300px;
+    display: inline-block;
   }
   
   .card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.25);
+    transform: scale(1.05);
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 4px;
   }
   
   .card h2 {
+    color: #111827;
     font-size: 1.25rem;
-    margin-bottom: 15px;
-    color: #1a1f36;
+    margin-bottom: 0.5rem;
   }
   
   .card p {
-    flex: 1;
-    margin-bottom: 20px;
-    color: #555555;
+    color: #6B7280;
+    margin-bottom: 1rem;
   }
   
-  .card a {
-    text-decoration: none;
-    color: #ffffff;
-    background: linear-gradient(135deg, #00d4ff, #9f7aea);
-    padding: 12px;
-    border-radius: 8px;
-    text-align: center;
-    font-size: 1rem;
-    font-weight: 600;
-    transition: background 0.3s ease;
+  button {
+    background-color: #3B82F6;
+    border: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
   }
   
-  .card a:hover {
-    background: linear-gradient(135deg, #9f7aea, #00d4ff);
+  button:hover {
+    background-color: #F97316;
   }
   
-  /* Footer styling */
   footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #1F2937;
+    padding: 1rem;
+    color: white;
     text-align: center;
-    padding: 10px;
-  }
-  
-  /* Responsive adjustments */
-  @media (max-width: 600px) {
-    header input {
-      width: 90%;
-    }
-  
-    .card h2 {
-      font-size: 1em;
-    }
   }
   
