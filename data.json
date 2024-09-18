@@ -255,6 +255,22 @@
       {
         "name": "Replit",
         "url": "https://replit.com/"
+      },
+      {
+        "name": "Deepseek",
+        "url": "https://chat.deepseek.com/"
+      },
+      {
+        "name": "OpenUI",
+        "url": "https://openui.fly.dev/"
+      },
+      {
+        "name": "Vectorshift",
+        "url": "https://vectorshift.ai/"
+      },
+      {
+        "name": "Coze",
+        "url": "https://coze.com/"
       }
     ]
   }
