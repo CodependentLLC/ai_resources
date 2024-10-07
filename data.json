@@ -271,6 +271,46 @@
       {
         "name": "Coze",
         "url": "https://coze.com/"
+      },
+      {
+        "name": "Pixverse AI",
+        "url": "https://pixverse.ai/"
+      },
+      {
+        "name": "Character AI",
+        "url": "https://character.ai/"
+      },
+      {
+        "name": "Poe",
+        "url": "https://poe.com/"
+      },
+      {
+        "name": "Suno",
+        "url": "https://suno.com/"
+      },
+      {
+        "name": "Hedra",
+        "url": "https://hedra.com/"
+      },
+      {
+        "name": "Color Pop",
+        "url": "https://colorpop.ai/"
+      },
+      {
+        "name": "Groq Playground",
+        "url": "https://console.groz.com/"
+      },
+      {
+        "name": "Open WebUI",
+        "url": "https://openwebui.com/"
+      },
+      {
+        "name": "Abacus.AI",
+        "url": "https://abacus.ai/"
+      },
+      {
+        "name": "Zed Ai",
+        "url": "https://zed.dev/"
       }
     ]
   }
